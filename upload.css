@@ -1,0 +1,67 @@
+body{
+    background-color:rgb(44, 42, 42) ;
+}
+.container  {
+    background-color: #fff;
+    margin: 0 auto;
+    width: 900px;
+    height: 510px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+border-radius: 20px;
+margin-top: 40px;
+}
+ .txt h3{
+    font-weight: 800;
+    font-size: 27px;
+    margin-top: 12px;
+    color: black;
+    margin-left: 12px;
+}
+.container  .fa-cloud-arrow-up{
+    color: #9f9a9a;
+    font-size: 100px;
+    margin-left: 380px;
+    margin-top: 50px;
+}
+.container hr{
+    color: #9f9a9a;
+}
+
+.textt1{
+    margin: 0 auto;
+    line-height: 1px;
+    text-align: center;
+    height: 150px;
+}
+.button1{
+    background-color: black;
+    width: auto;
+    color: white;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 14px;
+    margin-top: 48px;
+}
+.textt2{
+   
+    font-size: 14px;
+}
+.textt2 p a{
+    text-decoration: none;
+    color: rgb(86, 164, 247);
+}
+.textt2 #para1{
+    margin: 0 auto;
+    width: 830px;
+margin-left: 38px;
+text-indent: 40px;
+}
+
+.textt2 #para2{
+    margin: 0 auto;
+    width: 530px;
+margin-left: 188px;
+text-indent: 40px;
+margin-top: 12px;
+}
